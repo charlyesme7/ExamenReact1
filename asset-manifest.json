@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/ExamenReact1/static/css/main.c057b649.chunk.css",
+    "main.js": "/ExamenReact1/static/js/main.3194fabb.chunk.js",
+    "main.js.map": "/ExamenReact1/static/js/main.3194fabb.chunk.js.map",
+    "runtime-main.js": "/ExamenReact1/static/js/runtime-main.f1aa21e6.js",
+    "runtime-main.js.map": "/ExamenReact1/static/js/runtime-main.f1aa21e6.js.map",
+    "static/css/2.0a9ec390.chunk.css": "/ExamenReact1/static/css/2.0a9ec390.chunk.css",
+    "static/js/2.d54320d1.chunk.js": "/ExamenReact1/static/js/2.d54320d1.chunk.js",
+    "static/js/2.d54320d1.chunk.js.map": "/ExamenReact1/static/js/2.d54320d1.chunk.js.map",
+    "static/js/3.4155d468.chunk.js": "/ExamenReact1/static/js/3.4155d468.chunk.js",
+    "static/js/3.4155d468.chunk.js.map": "/ExamenReact1/static/js/3.4155d468.chunk.js.map",
+    "index.html": "/ExamenReact1/index.html",
+    "static/css/2.0a9ec390.chunk.css.map": "/ExamenReact1/static/css/2.0a9ec390.chunk.css.map",
+    "static/css/main.c057b649.chunk.css.map": "/ExamenReact1/static/css/main.c057b649.chunk.css.map",
+    "static/js/2.d54320d1.chunk.js.LICENSE.txt": "/ExamenReact1/static/js/2.d54320d1.chunk.js.LICENSE.txt",
+    "static/media/img1.fb44ea79.jpg": "/ExamenReact1/static/media/img1.fb44ea79.jpg",
+    "static/media/img2.d4ddd999.jpg": "/ExamenReact1/static/media/img2.d4ddd999.jpg",
+    "static/media/img3.a9cb4f61.jpg": "/ExamenReact1/static/media/img3.a9cb4f61.jpg",
+    "static/media/img4.c78a1f79.jpg": "/ExamenReact1/static/media/img4.c78a1f79.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f1aa21e6.js",
+    "static/css/2.0a9ec390.chunk.css",
+    "static/js/2.d54320d1.chunk.js",
+    "static/css/main.c057b649.chunk.css",
+    "static/js/main.3194fabb.chunk.js"
+  ]
+}
